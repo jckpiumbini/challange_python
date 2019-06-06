@@ -1,0 +1,7 @@
+tree.txt
+scraper.json
+desafio/__init__.pyc
+desafio/pipelines.pyc
+desafio/settings.pyc
+desafio/spiders/__init__.pyc
+desafio/spiders/drukzo.pyc
